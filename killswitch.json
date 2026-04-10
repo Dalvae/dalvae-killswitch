@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "mode": "maintenance",
-  "message": "Sitio en mantenimiento - Prueba de ofuscacion",
+  "message": "Sitio en mantenimiento",
   "show_theme": false,
-  "timestamp": 1742361900
+  "timestamp": 1775842479
 }
