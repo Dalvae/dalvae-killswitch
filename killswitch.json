@@ -1,7 +1,7 @@
 {
   "enabled": false,
   "mode": "maintenance",
-  "message": "Sitio operativo",
+  "message": "Sitio normal",
   "show_theme": true,
-  "timestamp": 1775842800
+  "timestamp": 1742363500
 }
