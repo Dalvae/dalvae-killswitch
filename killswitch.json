@@ -1,9 +1,9 @@
 {
-  "enabled": true,
+  "enabled": false,
   "mode": "maintenance",
-  "message": "Sitio en mantenimiento programado",
-  "show_theme": false,
-  "timestamp": 1742361133,
+  "message": "Sitio operativo - Kill Switch inactivo",
+  "show_theme": true,
+  "timestamp": 1742361666,
   "last_updated": "2025-04-09",
-  "note": "Maintenance mode activated for testing"
+  "note": "Site operating normally"
 }
