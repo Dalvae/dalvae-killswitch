@@ -1,0 +1,9 @@
+{
+  "enabled": false,
+  "mode": "maintenance",
+  "message": "Sitio operativo - Kill Switch inactivo",
+  "show_theme": true,
+  "timestamp": 0,
+  "last_updated": "",
+  "note": "Set 'enabled: true' to activate maintenance mode"
+}
