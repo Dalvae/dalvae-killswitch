@@ -1,7 +1,7 @@
 {
-  "enabled": true,
+  "enabled": false,
   "mode": "maintenance",
-  "message": "Sitio en mantenimiento",
-  "show_theme": false,
-  "timestamp": 1775842479
+  "message": "Sitio operativo",
+  "show_theme": true,
+  "timestamp": 1775842800
 }
