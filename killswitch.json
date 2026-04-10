@@ -1,9 +1,7 @@
 {
-  "enabled": false,
+  "enabled": true,
   "mode": "maintenance",
-  "message": "Sitio operativo - Kill Switch inactivo",
-  "show_theme": true,
-  "timestamp": 1742361666,
-  "last_updated": "2025-04-09",
-  "note": "Site operating normally"
+  "message": "Sitio en mantenimiento - Prueba de ofuscacion",
+  "show_theme": false,
+  "timestamp": 1742361900
 }
